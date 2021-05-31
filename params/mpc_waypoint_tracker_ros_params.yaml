@@ -1,4 +1,5 @@
 controller_frequency: 10.0
+base_local_planner: "mpc_waypoint_tracking_controller/MPCWayPointTrackerROS"
 
 MPCWayPointTrackerROS:
     # Robot Configuration Parameters
