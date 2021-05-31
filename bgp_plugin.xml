@@ -1,0 +1,7 @@
+<library path="lib/libmpc_waypoint_tracking_controller">
+  <class name="mpc_waypoint_tracking_controller/MPCWayPointTrackerROS" type="mpc_waypoint_tracking_controller::MPCWayPointTrackerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      Non linear model predictive waypoint path tracker implemented as a local planner plugin to use with ROS navigation stack.
+    </description>
+  </class>
+</library>
