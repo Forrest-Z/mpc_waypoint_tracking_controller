@@ -5,7 +5,7 @@ MPCWayPointTrackerROS:
     # Robot Configuration Parameters
     map_frame: "map"
     odom_frame: "odom"
-    base_frame: "base_footprint"
+    base_frame: "base_link"
 
     min_trans_vel:  0.01
 
