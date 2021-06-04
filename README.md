@@ -12,7 +12,7 @@ This local planner shall be used along with [WaypointsGlobalPlanner](https://git
     - Ipopt (included in this build)
     - Eigen (sudo apt install libeigen3-dev)
 
-## How to compile (Assumes catkin workspace already setup)
+## How to compile (Assumed that the catkin workspace setup already)
     - cd catkin_ws/src
     - git clone https://github.com/balamuruganky/mpc_waypoint_tracking_controller
     - cd ..
